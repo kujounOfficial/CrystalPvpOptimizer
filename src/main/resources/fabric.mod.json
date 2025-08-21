@@ -3,9 +3,9 @@
 	"id": "kujounoptimizer",
 	"version": "${version}",
 	"name": "KujounOptimizer",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "CrystalPvpOptimizer optimizes end crystals and respawn anchorts for faster placement.",
 	"authors": [
-		"Me!"
+		"Kujoun"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
